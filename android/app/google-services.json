@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554695740189",
+    "project_id": "novotix-attendee-checkin-app",
+    "storage_bucket": "novotix-attendee-checkin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554695740189:android:e981bde397e2d3b0022ff4",
+        "android_client_info": {
+          "package_name": "io.fantechlabs.novotix_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554695740189-3f1lmpek4elcq5eguui5vqgmbdimr9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7tlexz1go8xCFXpS3YdlRxF5ugB62IXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554695740189-3f1lmpek4elcq5eguui5vqgmbdimr9nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

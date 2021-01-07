@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>554695740189-vi266211gb0g5hck3u89ukd844rhaqii.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.554695740189-vi266211gb0g5hck3u89ukd844rhaqii</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbXG9FxK8G30RH6P_AfZ5tQBQaxvoDeoo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>554695740189</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fantechlabs.novotix</string>
+	<key>PROJECT_ID</key>
+	<string>novotix-attendee-checkin-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>novotix-attendee-checkin-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:554695740189:ios:21181a6bfe1cdd01022ff4</string>
+</dict>
+</plist>
