@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:novotix_app/screens/settings_screen.dart';
 import '../push_notifications/push_notifications_service.dart';
 import '../utils/multilang_strings.dart';
 import '../database_helper/shared_preferences.dart';
@@ -28,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
       return;
     }
     Future.delayed(Duration(seconds: 2),
-        () => Navigator.pushReplacementNamed(context, LoginScreen.id));
+        () => Navigator.pushReplacementNamed(context, SettingsScreen.id));
   }
 
   @override

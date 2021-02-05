@@ -72,7 +72,6 @@ class _MainBodyState extends State<MainBody> {
       child: ModalProgressHUD(
         inAsyncCall: _isLoading,
         child: Scaffold(
-          resizeToAvoidBottomPadding: false,
           key: _scaffoldKey,
           drawer: CustomSideBar(),
           backgroundColor: kMainBlueColor,

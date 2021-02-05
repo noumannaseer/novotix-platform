@@ -58,6 +58,8 @@ class AuthService {
     }
     String pass = _passwordEncryption(password).toString();
     final user = await _loginRequest(username, pass);
+    print("Email: $username, Encrypted Password: $pass, Password: $password");
+    print("User: $user");
     if (!user['GrandAccess']) {
       OnError.onError(errorMessage, context);
       return true;
